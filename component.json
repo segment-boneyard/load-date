@@ -1,0 +1,21 @@
+{
+  "name": "load-date",
+  "repo": "segmentio/load-date",
+  "description": "Component: returns the Date the page started loading, with a 'good enough' version for browsers without performance.timing.",
+  "version": "0.0.1",
+  "keywords": [
+    "time",
+    "pageload",
+    "performance",
+    "timing",
+    "load"
+  ],
+  "development": {
+    "component/assert": "*",
+    "component/type": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
