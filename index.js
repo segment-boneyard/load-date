@@ -1,3 +1,11 @@
+
+
+/*
+ * Load date.
+ *
+ * For reference: http://www.html5rocks.com/en/tutorials/webperformance/basics/
+ */
+
 var time = new Date()
   , perf = window.performance;
 
