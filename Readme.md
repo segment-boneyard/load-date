@@ -1,7 +1,6 @@
-
 # load-script
 
-  Component: returns the Date the page started loading, with a "good enough" version for browsers without performance.timing.
+  Returns the Date the page started loading, with a "good enough" version for browsers without `performance.timing`.
 
 ## Installation
 
